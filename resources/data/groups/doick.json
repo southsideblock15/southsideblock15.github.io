@@ -1,0 +1,16 @@
+{
+  "id": "doick",
+  "name": "1 hit to wonder",
+  "cape": "textures/capes/doick.png",
+  "icon": "textures/butterfly.png",
+  "members": [
+    "018bca63-1cf5-4be9-b554-cc9a255f7273",
+    "791b06d4-4211-4d7d-8344-a3137e17aecc",
+    "4f6a494a-7278-4b69-9481-4a402ed96188"
+  ],
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 255
+  }
+}

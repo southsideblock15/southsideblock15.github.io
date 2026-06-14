@@ -1,0 +1,14 @@
+{
+  "id": "hood",
+  "name": "funny person",
+  "cape": "textures/capes/hood.png",
+  "icon": "textures/butterfly.png",
+  "members": [
+    "ecf71c61-7a76-4796-b7f9-f1f883996220"
+  ],
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 255
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gretten",
+  "name": "liver defunction",
+  "cape": "textures/capes/gretten.png",
+  "icon": "textures/butterfly.png",
+  "members": [
+    "a08b46ce-4369-4c31-9d7f-3d0002ef40a8"
+  ],
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 255
+  }
+}

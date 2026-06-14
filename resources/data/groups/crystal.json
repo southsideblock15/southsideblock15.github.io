@@ -1,0 +1,14 @@
+{
+  "id": "crystal",
+  "name": "sinister handjob",
+  "cape": "textures/capes/crystal.png",
+  "icon": "textures/butterfly.png",
+  "members": [
+    "6deccc7f-f4aa-4f69-b49a-a429a0fbb017"
+  ],
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 255
+  }
+}
